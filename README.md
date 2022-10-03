@@ -1,0 +1,1 @@
+hello world. Let's start loading Python from C.
