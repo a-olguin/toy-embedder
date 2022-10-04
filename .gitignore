@@ -1,5 +1,6 @@
 CMakeFiles/**
 build/**
+**/__pycache__/**
 *.cmake
 CMakeCache.txt
 Makefile
